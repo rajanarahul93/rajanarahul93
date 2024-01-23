@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/rajanarahul7" target="blank"><img src="https://img.shields.io/twitter/follow/rajanarahul7?logo=twitter&style=for-the-badge" alt="rajanarahul7" /></a> </p>
 
-- 🔭 I’m currently working on **MindSpace**
-
 - 🌱 I’m currently learning **Node Js**
 
 - 💬 Ask me about **react,express,next**
