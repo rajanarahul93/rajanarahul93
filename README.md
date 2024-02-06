@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vara Rahul Rajana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-[![rajanarahul93's GitHub | Stats](https://stats.quine.sh/rajanarahul93/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rajanarahul93)
 <img align = "right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanarahul93&label=Profile%20views&color=0e75b6&style=flat" alt="rajanarahul93" /> </p>
