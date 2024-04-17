@@ -1,35 +1,71 @@
-<h1 align="center">Hi 👋, I'm Vara Rahul Rajana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+### Konichiwa 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanarahul93&label=Profile%20views&color=0e75b6&style=flat" alt="rajanarahul93" /> </p>
+- 🔭 I’m currently working on my developer experience (and sense of humor as well :upside_down_face:)
+- 🌱 I’m currently learning Next.js and Three.js
+- 👯 I’m looking to collaborate on Web Development Projects
+- 📫 How to reach me: &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/ashish-padhy3023/) &nbsp; &nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/Shurtu_Gal) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/ashish_padhy196/)
+- 😄 Pronouns: He/Him
+- ⚡ Awaiting: Jujutsu Kaisen 3
 
-<p align="left"> <a href="https://twitter.com/rajanarahul7" target="blank"><img src="https://img.shields.io/twitter/follow/rajanarahul7?logo=twitter&style=for-the-badge" alt="rajanarahul7" /></a> </p>
-
-- 🌱 I’m currently learning **Node Js**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **rajanarahul93@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<!-- Add the following lines for social media icons -->
-<p align="left">
-<a href="https://twitter.com/rajanarahul7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajanarahul7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vara-rahul-rajana-37616a262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vara-rahul-rajana-37616a262" height="30" width="40" /></a>
-<a href="https://instagram.com/rajanarahul7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajanarahul7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajanarahul93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajanarahul93" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajanarahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajanarahul" height="30" width="40" /></a>
+<p align="center">
+<span style="
+    display: flex;
+    gap: 10px;">  <picture>
+    <source 
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=solarized-light&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-psi-rust.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=solarized-light&count_private=true" width=48%alt="github-stats"/>
+  </picture><picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=Shurtu-Gal&theme=solarized-light&count_private=true&background=ffffff00"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=Shurtu-Gal&&theme=solarized-light&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com?user=Shurtu-Gal&&theme=solarized-light" width=48% alt="github-stats"/>
+  </picture>
+  </span>
+</p>
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shurtu-gal&bg_color=ffffff00&color=fdf6e3&area_color=758bA3&line=2aa198&point=6c71c4&area=true&radius=16"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shurtu-gal&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shurtu-gal&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
+  </picture>
 </p>
 
-<!-- Add the GitHub stats code here -->
-[![rajanarahul93's GitHub | Stats](https://stats.quine.sh/rajanarahul93/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rajanarahul93)
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&theme=transparent&text_color=619EA7&text_bold=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Shurtu-gal&layout=compact&bg_color=eee8d5&&color=586e75" width="50%" alt="github-stats-Shurtugal" />
+  </picture>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- Add your existing code for languages and tools here -->
+<p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/Shurtu-gal/count.svg" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajanarahul93&show_icons=true&locale=en&layout=compact" alt="rajanarahul93" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajanarahul93&show_icons=true&locale=en" alt="rajanarahul93" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajanarahul93&" alt="rajanarahul93" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shurtu-Gal&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
+</p>
