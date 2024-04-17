@@ -1,18 +1,17 @@
-### Konichiwa 👋
+### Hello 👋
 
-- 🔭 I’m currently working on my developer experience (and sense of humor as well :upside_down_face:)
+- 🔭 I’m currently working on my developer experience
 - 🌱 I’m currently learning Next.js and Three.js
 - 👯 I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me: &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/ashish-padhy3023/) &nbsp; &nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/Shurtu_Gal) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/ashish_padhy196/)
+- 📫 How to reach me: &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/vara-rahul-rajana/) &nbsp; &nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/rajanarahul7) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/rajanarahul7)
 - 😄 Pronouns: He/Him
-- ⚡ Awaiting: Jujutsu Kaisen 3
 
 <p align="center">
 <span style="
     display: flex;
     gap: 10px;">  <picture>
     <source 
-      srcset="https://github-readme-stats-psi-rust.vercel.app/api?username=Shurtu-Gal&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
+      srcset="https://github-readme-stats-psi-rust.vercel.app/api?username=rajanarahul93&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
