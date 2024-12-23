@@ -1,7 +1,6 @@
 ### Hello 👋
 
 - 🔭 I’m currently working on my developer experience
-- 🌱 I’m currently learning Next.js and Three.js
 - 👯 I’m looking to collaborate on Web Development Projects
 - 💼 My Portfolio : [Portfolio](https://vara-rahul-portfolio.vercel.app/)
 - 📫 How to reach me: &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/vara-rahul-rajana/) &nbsp; &nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/rajanarahul7) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/rajanarahul7)
