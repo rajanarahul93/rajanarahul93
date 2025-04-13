@@ -12,7 +12,7 @@
     display: flex;
     gap: 10px;">  <picture>
     <source 
-      srcset="https://github-readme-stats-psi-rust.vercel.app/api?username=rajanarahul93&show_icons=true&theme=transparent&text_color=619EA7&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=rajanarahul93&show_icons=true&locale=en" alt="rajanarahul93"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -50,14 +50,14 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=rajanarahul93&layout=compact&theme=transparent&text_color=619EA7&text_bold=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rajanarahul93&show_icons=true&locale=en&layout=compact"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=rajanarahul93&layout=compact&bg_color=eee8d5&&color=586e75"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rajanarahul93&show_icons=true&locale=en&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=rajanarahul93&layout=compact&bg_color=eee8d5&&color=586e75" width="50%" alt="github-stats-Shurtugal" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajanarahul93&show_icons=true&locale=en&layout=compact" width="50%" alt="github-stats-rajanarahul93" />
   </picture>
 </p>
 
