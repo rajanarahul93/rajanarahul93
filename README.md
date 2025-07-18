@@ -61,10 +61,6 @@
   </picture>
 </p>
 
-<p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/rajanarahul93/count.svg" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajanarahul93&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
