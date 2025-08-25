@@ -62,6 +62,3 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajanarahul93&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
-</p>
