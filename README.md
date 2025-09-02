@@ -5,7 +5,7 @@
 - 💼 My Portfolio : [Portfolio](https://rahul-portfolio-mocha.vercel.app/)
 - 📫 How to reach me: &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/vara-rahul-rajana/) &nbsp; &nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/rajanarahul7) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/rajanarahul7) &nbsp;
 - 😄 Pronouns: He/Him
-- Discord : rajanarahul93
+- Discord: rajanarahul93
 
 <p align="center">
 <span style="
